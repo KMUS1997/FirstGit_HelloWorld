@@ -58,3 +58,14 @@
 紧急Bug修复，需要从master分支切出一个bug修复分支，完成之后需要同时merge到master分支与develop分支（如果需要测试介入验证，则可先merge到pre-release分支，验证通过后再merge到master分支上线）。merge时参考“正常开发流程”。流程示意图如下
 
 ![image.png](/d/C6kmj0mVyYo)
+=======
+My very first helloworld is a diary that keep trace on my progress in Unity.
+And I will share my experience to you. 
+You can connect with me by QQ:554825519
+
+
+add Line for testing prository branch
+
+
+test merge form branch new to main 
+
