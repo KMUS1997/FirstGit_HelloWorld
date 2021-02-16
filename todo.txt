@@ -1,4 +1,5 @@
 你的任务如下: 
+- [] 整理合并所有分支,合并结果到main, 注意,请遵守分支与commit规范
 - []下载与安装Rider.破解Rider.[下载地址](https://www.jetbrains.com/rider/)
 - [] 下载与安装unity 版本 2019.4.18f1c1
 - [] 安装Space [Space地址](https://jetbrains.com/space)
